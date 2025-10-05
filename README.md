@@ -3,6 +3,8 @@ Latihan Project LLM-Based Tools and Gemini API Integration for Data Scientists -
 
 TERIMA KASIH DIUCAPKAN KEPADA PIHAK HACKTIV8 & MAS ADIPTA MARTULANDI ! 
 
+Akses Streamlit: https://demo-app-chatbot-v3-nyyntzcrxzbmp2oqsukbcb.streamlit.app/
+
 ---
 
 # SiCakap (Sistem Chat Pintar)
